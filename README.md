@@ -1,6 +1,6 @@
-# My-enumerable-Ruby
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-Enumerable
+# My-enumerable-Ruby
 
 Create a class MyList and a module MyEnumerable which will implement a subset of the functionality of Enumerable.
 
