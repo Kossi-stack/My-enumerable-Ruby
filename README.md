@@ -4,11 +4,9 @@
 
 Create a class MyList and a module MyEnumerable which will implement a subset of the functionality of Enumerable.
 
-
-
 Built with
 
-    Ruby
+- Ruby
 
 Installation
 
